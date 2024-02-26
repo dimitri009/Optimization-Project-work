@@ -8,7 +8,7 @@ This project focuses on evaluating the performance of optimization techniques, s
 
 **Optimization Methods**
 
-The project explores three optimization methods: <u>Gradient Descent with Armijo Step Size</u>, <u>Newton's Method</u>, and <u>Conjugate Gradient Method</u>. These methods are applied iteratively to minimize the logistic loss function, considering second-order information like gradients and Hessians.
+The project explores three optimization methods: *Gradient Descent with Armijo Step Size*, *Newton's Method*, and *Conjugate Gradient Method*. These methods are applied iteratively to minimize the logistic loss function, considering second-order information like gradients and Hessians.
 
 **Experiments**
 
